@@ -11,5 +11,13 @@ Hemos reciclado una vieja maqueta que teníamos por el laboratorio de Ciencias p
 
 ---
 
+## Componentes del montaje  
+
+## Modelos en 3D de las piezas  
+
+Ha habido que fabricar algunas piezas con la impresora 3D para conseguir ensamblar las dos partes de vidrio de las que se compone el invernadero.  
+
+Así mismo, se ha diseñado una pieza para sostener todo el cableado, la placa Arduino y el display.  
+
 
 ## Código
