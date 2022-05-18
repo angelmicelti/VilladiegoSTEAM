@@ -7,4 +7,4 @@ Relación de trabajos realizados en el proyecto STEAM "Control y Robótica"
 
 ## [Invernadero controlado por Arduino](invernadero/invernadero.md)
 
-## [Jeringóforo impreso](jeringoforo/jeringoforo.md)
+## [Jeringóforo impreso en 3D](jeringoforo/jeringoforo.md)
