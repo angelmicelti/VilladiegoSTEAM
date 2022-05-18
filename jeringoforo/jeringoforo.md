@@ -10,3 +10,13 @@ El modelo 3D que fue, finalmente, desarrollado por nuestro alumnado fue el sigui
 ![Jeringóforo](jeringoforo.png)
 
 cuyo modelo en 3D puede verse en [este enlace](jeringoforo.stl).
+
+## Montaje del modelo
+
+Una vez que tenemos las piezas impresas, hay que realizar un pequeño ajuste, para que puedan encajar entre sí y, posteriormente, montarlas.  
+
+Repasamos los orificios de los ledes, y los insertamos en los mismos.
+
+A continuación, soldamos una resistencia a cada led y cableamos lo necesario.  
+
+Por último, fijamos los cables en unas clemas y, ¡ya está listo!
