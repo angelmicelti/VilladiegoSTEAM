@@ -19,4 +19,7 @@ Repasamos los orificios de los ledes, y los insertamos en los mismos.
 
 A continuación, soldamos una resistencia a cada led y cableamos lo necesario.  
 
-Por último, fijamos los cables en unas clemas y, ¡ya está listo! Nuestro semáforo está funcionando...
+Por último, fijamos los cables en unas clemas y, ¡ya está listo! Nuestro semáforo está funcionando...  
+
+
+## Un programita para controlar el semáforo
