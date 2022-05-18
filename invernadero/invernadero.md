@@ -10,3 +10,6 @@ Hemos reciclado una vieja maqueta que teníamos por el laboratorio de Ciencias p
 - Ventilador, que  nos permite la extracción y renovación del aire.  
 
 ---
+
+
+## Código
