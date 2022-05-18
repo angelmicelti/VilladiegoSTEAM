@@ -2,9 +2,9 @@
 
 ## Piezas en 3D
 
-Tapadera  
-()
+#### Tapadera  
+![Caja](CajaPhmetro.stl)
 
-Caja
+#### Caja
 
-Portapilas
+#### Portapilas
