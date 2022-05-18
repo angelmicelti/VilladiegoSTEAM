@@ -4,3 +4,7 @@ Pese a los detractores que entre el mundo maker tiene el **semáforo**, éste co
 
 Diseñar y construir un semáforo, más en una impresora 3D, puede ser un reto fácilmente alcanzable y, sobre todo, motivador.  
 
+## Modelo 3D
+
+El modelo 3D que fue, finalmente, desarrollado por nuestro alumnado fue el siguiente:
+![Jeringóforo](Jeringoforo.png)
