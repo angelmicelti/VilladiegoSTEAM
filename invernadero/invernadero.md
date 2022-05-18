@@ -1,5 +1,7 @@
 # Invernadero controlado por Arduino
 
+## Motivación  
+
 Hemos reciclado una vieja maqueta que teníamos por el laboratorio de Ciencias para construir un pequeño invernadero dotado de los siguientes elementos:
 
 - Sensor de dióxido de carbono.
