@@ -7,4 +7,4 @@ Diseñar y construir un semáforo, más en una impresora 3D, puede ser un reto f
 ## Modelo 3D
 
 El modelo 3D que fue, finalmente, desarrollado por nuestro alumnado fue el siguiente:
-![Jeringóforo](Jeringoforo.png)
+[![Jeringóforo](Jeringoforo.png)](Jeringoforo.stl)
