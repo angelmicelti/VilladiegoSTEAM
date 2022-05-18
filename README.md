@@ -1,5 +1,9 @@
 # VilladiegoSTEAM
-Relación de actividades desarrolladas en el proyecto STEAM "Control y Robótica"
+Relación de trabajos realizados en el proyecto STEAM "Control y Robótica"
 
+## Peachímetro digital con Arduino
 
-Toda la info en el [wiki](https://github.com/angelmicelti/VilladiegoSTEAM/wiki/Home)
+## Invernadero controlado por Arduino
+
+## Jeringóforo impreso
+
