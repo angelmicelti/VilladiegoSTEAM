@@ -5,3 +5,6 @@ Hemos reciclado una vieja maqueta que teníamos por el laboratorio de Ciencias p
 - Sensor de dióxido de carbono.
 - Sensor de temperatura y humedad ambiental DHT11
 - Sensor de humedad de la tierra
+- Ventilador, que  nos permite la extracción y renovación del aire.  
+
+---
