@@ -68,13 +68,11 @@ void setup()
   HumTierra3 = 0;
   pulsador = 1;
   lcd_1.clear();
-
 }
 
 
 void loop()
-{
-    
+{    
     if (button_debounced_0.pressed()) {
       lcd_1.clear();
       if ((pulsador < 6)) {
