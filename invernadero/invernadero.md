@@ -25,6 +25,8 @@ Así mismo, se ha diseñado una pieza para sostener todo el cableado, la placa A
 
 ## Código
 
+Puedes consultar el código en [este enlace](codigo.md).
+
 
 
 [VOLVER](https://angelmicelti.github.io/VilladiegoSTEAM/)
