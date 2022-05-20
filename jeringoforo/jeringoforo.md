@@ -2,9 +2,9 @@
 
 Pese a los detractores que entre el mundo maker tiene el **semáforo**, éste constituye un elemento muy importante para acercar al alumnado al mundo de la tecnología.  
 
-Con nuestro alumnado acostumbramos a trabajar la construcción de un semáforo, al que llamamos **[jeringóforo](https://angelmicelti.github.io/PROY/JER/index.html)**, con dos luces, que podemos programar fácilmente con Arduino.  
+Con nuestro alumnado acostumbramos a trabajar la construcción de un semáforo en 3º de E.S.O., al que llamamos **[jeringóforo](https://angelmicelti.github.io/PROY/JER/index.html)**, con dos luces, que podemos programar fácilmente con Arduino.  
 
-Llevar esto a una impresión 3D de un dispositivo puede ser un reto fácilmente alcanzable y, sobre todo, motivador.  
+Llevar esto a la impresión 3D de un dispositivo similar puede ser un reto fácilmente alcanzable y, sobre todo, motivador para el alumnado.  
 
 ## Modelo 3D
 
@@ -26,7 +26,9 @@ Por último, fijamos los cables en unas clemas y, ¡ya está listo! Nuestro sem�
 
 ## Un programita para controlar el semáforo
 
-Adjuntamos la imagen de un programa realizado con [Arduinoblocks](www.arduinoblocks.com) para el encendido de un semáforo cuyo ciclo de funcionamiento es de 10 segundos. 
+Adjuntamos la imagen de un programa realizado con [Arduinoblocks](www.arduinoblocks.com) para el encendido de un semáforo cuyo ciclo de funcionamiento es de 10 segundos.  
+
+Se utilizan funciones para el encendido de los respectivos ledes.
 
 ![Programa de control de un semáforo con funciones](img/ProgSemaforo.png)  
 
