@@ -32,12 +32,12 @@ Se han utilizado los siguientes componentes electrónicos:
 #### [Modelo 3D (.stl)](CajaPhmetro.stl)
 
 ### Tapadera del peachímetro
-![Tapadera del peachímetro](img/phmetro_caja.png)
+![Tapadera del peachímetro](img/phmetro_tapa.png)
 
 #### [Modelo 3D (.stl)](TapaPhmetro.stl)
 
-### Caja del peachímetro
-![Modelo 3D (.stl)](img/phmetro_tapa.png)
+### Portapila
+![Modelo 3D (.stl)](img/phmetro_portapila.png)
 
 #### [Modelo 3D (.stl)](PortapilasPhmetro.stl)
 
