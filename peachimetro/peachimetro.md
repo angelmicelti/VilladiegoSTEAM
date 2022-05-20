@@ -12,7 +12,7 @@ Se adquirió el sensor de pH y, con bastante paciencia, se ha hecho un trabajo d
 
 
 ---
-## Componentes del montaje. 
+## Componentes empleados en el montaje 
 
 Se han utilizado los siguientes componentes electrónicos:
 - [Placa Keyestudio UNO](KS0001_KEYESTUDIO.pdf)
