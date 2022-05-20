@@ -2,7 +2,7 @@
 
 Pese a los detractores que entre el mundo maker tiene el **semáforo**, éste constituye un elemento muy importante para acercar al alumnado al mundo de la tecnología.  
 
-Con nuestro alumnado acostumbramos a trabajar la construcción de un semáforo, al que llamamos **jeringóforo**, con dos luces, que podemos programar fácilmente con Arduino.  
+Con nuestro alumnado acostumbramos a trabajar la construcción de un semáforo, al que llamamos **[jeringóforo](https://angelmicelti.github.io/PROY/JER/index.html)**, con dos luces, que podemos programar fácilmente con Arduino.  
 
 Llevar esto a una impresión 3D de un dispositivo puede ser un reto fácilmente alcanzable y, sobre todo, motivador.  
 
