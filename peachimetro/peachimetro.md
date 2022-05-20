@@ -51,8 +51,6 @@ Se han utilizado los siguientes componentes electrónicos:
 
 ## Imágenes   
 
----
-
 ### Montaje del peachímetro  
 ![Montaje 1](img/montaje1.jpg "Peachímetro montado: aspecto exterior")
 ![Montaje 2](img/montaje2.jpg "Imprimiendo la tapadera")
@@ -71,6 +69,8 @@ Se han utilizado los siguientes componentes electrónicos:
 ![Calibración y funcionamiento 5](img/mates1.jpg "Analizando la recta de calibración en clase de matemáticas")
 
 
+---
+
 
 ### Práctica de Física y Química con 4º de E.S.O.
 ![Práctica 1](img/fyq1.jpg "Presentando la práctica al alumnado")
@@ -78,6 +78,7 @@ Se han utilizado los siguientes componentes electrónicos:
 ![Práctica 3](img/fyq3.jpg "Una alumna realiza una medida con el peachímetro")
 ![Práctica 4](img/fyq4.jpg "El profesor realiza una medida")
 ![Práctica 5](img/fyq5.jpg "El profesor realiza otra medida")
+
 ---
 
 [VOLVER](https://angelmicelti.github.io/VilladiegoSTEAM/)
