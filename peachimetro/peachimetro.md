@@ -16,7 +16,7 @@ Y, armados con un poco de paciencia, se adquirió el sensor de pH. Seguidamente 
 ## Componentes del montaje. 
 
 Se han utilizado los siguientes componentes electrónicos:
-- Placa Arduino STEAMakers
+- [Placa Keyestudio UNO](KS0001_KEYESTUDIO.pdf)
 - [Sensor de pH SKU SEN0161](sen0161_dataSheet.pdf)
 - [Display LCD I2C Keyestudio](https://wiki.keyestudio.com/Ks0061_keyestudio_1602_I2C_Module)
 - Sensor de temperatura y humedad DHT11
