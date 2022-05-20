@@ -17,7 +17,9 @@ Hemos reciclado una vieja maqueta que teníamos por el laboratorio de Ciencias p
 
 Ha habido que fabricar algunas piezas con la impresora 3D para conseguir ensamblar las dos partes de vidrio de las que se compone el invernadero.  
 
-- Unión de los dos soportes
+- Unión de los dos soportes:  
+
+
 
 Así mismo, se ha diseñado una pieza para sostener todo el cableado, la placa Arduino y el display.  
 
@@ -25,9 +27,14 @@ Así mismo, se ha diseñado una pieza para sostener todo el cableado, la placa A
 
 
 ![Pieza 1](img/PiezaInvernaderoCaja1.png "Unidad de presentación: pieza 1")  
-![Pieza 2](img/PiezaInvernaderoCaja2.png "Unidad de presentación: pieza 2")  
-![Pieza 3](img/PiezaInvernaderoCaja3.png "Unidad de presentación: pieza 3")  
+[Descarga el archivo .stl](InvernaderoCaja1.stl)  
 
+
+![Pieza 2](img/PiezaInvernaderoCaja2.png "Unidad de presentación: pieza 2")  
+  
+
+![Pieza 3](img/PiezaInvernaderoCaja3.png "Unidad de presentación: pieza 3")  
+[Descarga el archivo .stl](InvernaderoCaja2y3.stl)
 
 ## Código
 
