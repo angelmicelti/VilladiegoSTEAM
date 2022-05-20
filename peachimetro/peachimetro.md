@@ -52,13 +52,17 @@ Se han utilizado los siguientes componentes electrónicos:
 ## Imágenes   
 
 ### Montaje del peachímetro  
+![Montaje 1](img/montaje1.jpg)
+![Montaje 2](img/montaje2.jpg)
+![Montaje 3](img/montaje3.jpg)
+![Montaje 4](img/montaje4.jpg)
 
 ### Calibración
 
 ### Funcionamiento
 
 ### Práctica de Física y Química con 4º de E.S.O.
-
+![Prácctica 1]()
 ---
 
 [VOLVER](https://angelmicelti.github.io/VilladiegoSTEAM/)
