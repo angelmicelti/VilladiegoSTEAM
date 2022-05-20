@@ -17,8 +17,8 @@ Hemos reciclado una vieja maqueta que teníamos por el laboratorio de Ciencias p
 
 Ha habido que fabricar algunas piezas con la impresora 3D para conseguir ensamblar las dos partes de vidrio de las que se compone el invernadero.  
 
-- Unión de los dos soportes:  
-
+- Unión de las dos partes del invernadero:  
+Esta pieza permite sujetar las dos estructuras fabricadas en vidrio, dejando un pequeño hueco para la entrada de aire.
 
 ![Pieza Auxiliar](img/PiezaAux.png "Pieza auxiliar para cerrar el invernadero")  
 [Descarga el archivo .stl](InvernaderoAux.stl)  
