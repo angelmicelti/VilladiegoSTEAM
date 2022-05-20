@@ -65,10 +65,10 @@ Se han utilizado los siguientes componentes electrónicos:
 
 ### Calibración y funcionamiento
 ![Calibración y funcionamiento 1](img/funcionamiento1.jpg "Comprobando el funcionamiento del display con un potenciómetro")
-![Calibración y funcionamiento 2](img/funcionamiento2.jpg "Comprobando el funcionamiento del display con un potenciómetro")
-![Calibración y funcionamiento 3](img/funcionamiento3.jpg "Calibrando con una disolución patrón")
-![Calibración y funcionamiento 4](img/funcionamiento4.jpg "Comprobando el funcionamiento del display con un potenciómetro")
-![Calibración y funcionamiento 5](img/funcionamiento5.jpg "Comprobando el funcionamiento del display con un potenciómetro")
+![Calibración y funcionamiento 2](img/funcionamiento2.jpg "Calibrando con una disolución patrón")
+![Calibración y funcionamiento 3](img/funcionamiento3.jpg "Adquisición de datos a través del puerto serie")
+![Calibración y funcionamiento 4](img/funcionamiento4.jpg "Recta de calibración del sensor")
+![Calibración y funcionamiento 5](img/mates1.jpg "Analizando la recta de calibración en clase de matemáticas")
 
 
 
