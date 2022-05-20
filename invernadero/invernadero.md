@@ -21,7 +21,11 @@ Ha habido que fabricar algunas piezas con la impresora 3D para conseguir ensambl
 
 Así mismo, se ha diseñado una pieza para sostener todo el cableado, la placa Arduino y el display.  
 
-- Unidad de presentación
+- Unidad de presentación:
+![Pieza 1](img/Pieza invernadero_caja circuit 1.png "Unidad de presentación: pieza 1")  
+![Pieza 2](img/Pieza invernadero_caja circuit 2.png "Unidad de presentación: pieza 2")  
+![Pieza 3](img/Pieza invernadero_caja circuit 3.png "Unidad de presentación: pieza 3")  
+
 
 ## Código
 
