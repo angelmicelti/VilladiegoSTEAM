@@ -39,7 +39,7 @@ Se han utilizado los siguientes componentes electrónicos:
 ---
 
 ## Código  
-
+![Código Arduinoblocks para el peachímetro](programa_pHmetro.png)
 
 
 [VOLVER](https://angelmicelti.github.io/VilladiegoSTEAM/)
