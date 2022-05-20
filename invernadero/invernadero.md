@@ -21,7 +21,7 @@ Ha habido que fabricar algunas piezas con la impresora 3D para conseguir ensambl
 
 
 ![Pieza Auxiliar](img/PiezaAux.png "Pieza auxiliar para cerrar el invernadero")  
-[Descarga el archivo .stl](PiezaAux.stl)  
+[Descarga el archivo .stl](InvernaderoAux.stl)  
 
 
 
