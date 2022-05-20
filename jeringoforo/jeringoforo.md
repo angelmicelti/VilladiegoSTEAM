@@ -26,6 +26,8 @@ Por último, fijamos los cables en unas clemas y, ¡ya está listo! Nuestro sem�
 
 ## Un programita para controlar el semáforo
 
+Adjuntamos la imagen de un programa realizado con [Arduinoblocks](www.arduinoblocks.com) para el encendido de un semáforo cuyo ciclo de funcionamiento es de 10 segundos. 
+
 ![Programa de control de un semáforo con funciones](img/ProgSemaforo.png)  
 
 
