@@ -4,7 +4,7 @@ Pese a los detractores que entre el mundo maker tiene el **semáforo**, éste co
 
 Con nuestro alumnado acostumbramos a trabajar la construcción de un semáforo, al que llamamos **jeringóforo**, con dos luces, que podemos programar fácilmente con Arduino.  
 
-Diseñar y construir un semáforo, más en una impresora 3D, puede ser un reto fácilmente alcanzable y, sobre todo, motivador.  
+Llevar esto a una impresión 3D de un dispositivo puede ser un reto fácilmente alcanzable y, sobre todo, motivador.  
 
 ## Modelo 3D
 
