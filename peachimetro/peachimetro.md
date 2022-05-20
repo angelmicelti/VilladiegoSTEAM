@@ -51,18 +51,28 @@ Se han utilizado los siguientes componentes electrónicos:
 
 ## Imágenes   
 
+---
+
 ### Montaje del peachímetro  
-![Montaje 1](img/montaje1.jpg "Peachímetro montado")
-![Montaje 2](img/montaje2.jpg)
-![Montaje 3](img/montaje3.jpg)
-![Montaje 4](img/montaje4.jpg)
+![Montaje 1](img/montaje1.jpg "Peachímetro montado: aspecto exterior")
+![Montaje 2](img/montaje2.jpg "Imprimiendo la tapadera")
+![Montaje 3](img/montaje3.jpg "Instalando el sensor de pH")
+![Montaje 4](img/montaje4.jpg "Vista interior con todo ya montado")
+
+
+---
+
 
 ### Calibración
 
 ### Funcionamiento
 
 ### Práctica de Física y Química con 4º de E.S.O.
-![Prácctica 1]()
+![Práctica 1](img/fyq1.jpg "Presentando la práctica al alumnado")
+![Práctica 2](img/fyq2.jpg "Haciendo una medida")
+![Práctica 3](img/fyq3.jpg "Una alumna realiza una medida con el peachímetro")
+![Práctica 4](img/fyq4.jpg "El profesor realiza una medida")
+![Práctica 5](img/fyq5.jpg "El profesor realiza otra medida")
 ---
 
 [VOLVER](https://angelmicelti.github.io/VilladiegoSTEAM/)
