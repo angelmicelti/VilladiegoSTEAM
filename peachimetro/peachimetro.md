@@ -18,7 +18,7 @@ Y, armados con un poco de paciencia, se adquirió el sensor de pH. Seguidamente 
 Se han utilizado los siguientes componentes electrónicos:
 - [Placa Keyestudio UNO](KS0001_KEYESTUDIO.pdf)
 - [Sensor de pH SKU SEN0161](sen0161_dataSheet.pdf)
-- [Display LCD I2C Keyestudio](https://wiki.keyestudio.com/Ks0061_keyestudio_1602_I2C_Module)
+- [Display LCD I2C](I2C_1602_LCD_datasheet.pdf)
 - Sensor de temperatura y humedad DHT11
 - [Sensor de humedad de la tierra KS0049](https://wiki.keyestudio.com/index.php/Ks0049_keyestudio_Soil_Humidity_Sensor)
 - Cables Dupont
