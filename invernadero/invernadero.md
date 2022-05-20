@@ -40,7 +40,7 @@ Así mismo, se ha diseñado una pieza para sostener todo el cableado, la placa A
 ![Pieza 3](img/PiezaInvernaderoCaja3.png "Unidad de presentación: pieza 3")  
 [Descarga el archivo .stl de las piezas 2 y 3](InvernaderoCaja2y3.stl)
 
-## Imágenes. 
+## Imágenes 
 
 
 
