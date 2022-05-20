@@ -1,6 +1,8 @@
-# Jeringóforo
+# Motivación
 
 Pese a los detractores que entre el mundo maker tiene el **semáforo**, éste constituye un elemento muy importante para acercar al alumnado al mundo de la tecnología.  
+
+Con nuestro alumnado acostumbramos a trabajar la construcción de un semáforo, al que llamamos **jeringóforo**, con dos luces, que podemos programar fácilmente con Arduino.  
 
 Diseñar y construir un semáforo, más en una impresora 3D, puede ser un reto fácilmente alcanzable y, sobre todo, motivador.  
 
