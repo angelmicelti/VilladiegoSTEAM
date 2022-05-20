@@ -63,9 +63,14 @@ Se han utilizado los siguientes componentes electrónicos:
 ---
 
 
-### Calibración
+### Calibración y funcionamiento
+![Calibración y funcionamiento 1](img/funcionamiento1.jpg "Comprobando el funcionamiento del display con un potenciómetro")
+![Calibración y funcionamiento 2](img/funcionamiento2.jpg "Comprobando el funcionamiento del display con un potenciómetro")
+![Calibración y funcionamiento 3](img/funcionamiento3.jpg "Calibrando con una disolución patrón")
+![Calibración y funcionamiento 4](img/funcionamiento4.jpg "Comprobando el funcionamiento del display con un potenciómetro")
+![Calibración y funcionamiento 5](img/funcionamiento5.jpg "Comprobando el funcionamiento del display con un potenciómetro")
 
-### Funcionamiento
+
 
 ### Práctica de Física y Química con 4º de E.S.O.
 ![Práctica 1](img/fyq1.jpg "Presentando la práctica al alumnado")
