@@ -9,7 +9,7 @@ Llevar esto a una impresión 3D de un dispositivo puede ser un reto fácilmente 
 ## Modelo 3D
 
 El modelo 3D que fue, finalmente, desarrollado por nuestro alumnado fue el siguiente:
-![Jeringóforo](jeringoforo.png)
+![Jeringóforo](img/jeringoforo.png)
 
 cuyo modelo en 3D puede verse en [este enlace](jeringoforo.stl).
 
