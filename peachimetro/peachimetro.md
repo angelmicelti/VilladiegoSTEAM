@@ -52,7 +52,7 @@ Se han utilizado los siguientes componentes electrónicos:
 ## Imágenes   
 
 ### Montaje del peachímetro  
-![Montaje 1](img/montaje1.jpg)
+![Montaje 1](img/montaje1.jpg "Peachímetro montado")
 ![Montaje 2](img/montaje2.jpg)
 ![Montaje 3](img/montaje3.jpg)
 ![Montaje 4](img/montaje4.jpg)
