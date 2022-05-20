@@ -55,6 +55,10 @@ Se han utilizado los siguientes componentes electrónicos:
 
 ### Calibración
 
+### Funcionamiento
+
+### Práctica de Física y Química con 4º de E.S.O.
+
 ---
 
 [VOLVER](https://angelmicelti.github.io/VilladiegoSTEAM/)
