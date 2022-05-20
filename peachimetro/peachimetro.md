@@ -20,7 +20,7 @@ Se han utilizado los siguientes componentes electrónicos:
 - [Sensor de pH SKU SEN0161](sen0161_dataSheet.pdf)
 - Display LCD I2C
 - Sensor de temperatura y humedad DHT11
-- Sensor de humedad de la tierra NOMBRE
+- Sensor de humedad de la tierra KS0049
 - Cables Dupont
 
 
