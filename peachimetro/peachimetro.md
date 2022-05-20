@@ -29,16 +29,16 @@ Se han utilizado los siguientes componentes electrónicos:
 ### Caja del peachímetro
 ![Caja del peachímetro](img/phmetro_caja.png)
 
-#### [Caja](CajaPhmetro.stl)
+#### [Modelo 3D (.stl)](CajaPhmetro.stl)
 
-#### [Tapadera](TapaPhmetro.stl)
+#### [Modelo 3D (.stl)](TapaPhmetro.stl)
 
-#### [Portapilas](PortapilasPhmetro.stl)
+#### [Modelo 3D (.stl)](PortapilasPhmetro.stl)
 
 ---
 
 ## Código  
-![Código Arduinoblocks para el peachímetro](programa_pHmetro.png)
+![Código Arduinoblocks para el peachímetro](img/programa_pHmetro.png)
 
 
 ---
