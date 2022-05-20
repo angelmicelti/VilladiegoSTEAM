@@ -13,7 +13,12 @@ Y, armados con un poco de paciencia, se adquirió el sensor de pH. Seguidamente 
 
 
 ---
-## Componentes del montaje
+## Componentes del montaje. 
+
+Se han utilizado los siguientes componentes electrónicos:
+- Placa Arduino STEAMakers
+- Sensor de pH NOMBRE
+- Cables Dupont
 
 
 ---
