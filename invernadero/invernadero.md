@@ -18,7 +18,7 @@ Se han utilizado los siguientes componentes electrónicos:
 - [Sensor de temperatura y humedad DHT11](DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf)
 - [Display LCD I2C](I2C_1602_LCD_datasheet.pdf)
 - [Sensor de humedad de la tierra KS0049](sensor-de-humedad-de-suelo-fc28.pdf)
-- [Sensor de CO2](mh-z19b-co2-ver1_0_datasheet.pdf)
+- [Sensor de CO<sub>2</sub>](mh-z19b-co2-ver1_0_datasheet.pdf)
 - Cables Dupont
 
 
