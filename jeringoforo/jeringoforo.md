@@ -43,7 +43,7 @@ Por último, soldamos los cables a unos pines acodados y, ¡ya está listo! Nues
 
 ![Montaje final posterior](img/AlzadoPosteriorFinal.jpg)  
 
-![Detalle de la soldadura](img/DetalleSoldadura.jpg)  
+![Detalle de la soldadura](img/DetalleSoldaduras.jpg)  
 
 
 
