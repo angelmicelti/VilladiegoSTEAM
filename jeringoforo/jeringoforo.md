@@ -11,8 +11,9 @@ Llevar esto a la impresión 3D de un dispositivo similar puede ser un reto fáci
 ![Jeringóforo posterior](img/JeringoforoPerspectiva2.png "Perspectiva posterior")
 
 ## Modelo 3D
+Se le propuso al alumnado que desarrollaran, en [TinkerCAD](https://www.tinkercad.com), un modelo que aproximara la forma del jeringóforo.
 
-El modelo 3D que fue, finalmente, desarrollado por nuestro alumnado fue el siguiente:
+El modelo 3D que fue, finalmente, desarrollado por nuestros chicos y chicas fue el siguiente:
 ![Jeringóforo](img/jeringoforo.png)
 
 cuyo modelo en 3D puede verse en [este enlace](jeringoforo.stl).
