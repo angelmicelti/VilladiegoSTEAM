@@ -6,7 +6,7 @@ Con nuestro alumnado acostumbramos a trabajar la construcción de un semáforo e
 
 Llevar esto a la impresión 3D de un dispositivo similar puede ser un reto fácilmente alcanzable y, sobre todo, motivador para el alumnado.  
 
-![Jeringóforo anterior](JeringoforoPerspectiva.png)  
+![Jeringóforo anterior](JeringoforoPerspectiva.jpg)  
 
 ![Jeringóforo posterior](JeringoforoPerspectiva2.png)
 
