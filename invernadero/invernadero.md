@@ -55,6 +55,14 @@ Así mismo, se ha diseñado una pieza para sostener todo el cableado, la placa A
 ![Impresión de pieza](img/ImpresionPieza.jpg "Unidad de presentación: pieza 1")  
 
 
+### Unidad de presentación
+
+![Presentación 1](img/PiezaInvernadero1.jpg "Unidad de presentación")  
+![Presentación 2](img/PiezaInvernadero2.jpg "Unidad de presentación")  
+![Presentación 3](img/PiezaInvernadero3.jpg "Unidad de presentación")  
+
+
+
 
 
 
