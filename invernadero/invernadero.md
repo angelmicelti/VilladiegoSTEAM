@@ -68,7 +68,7 @@ Así mismo, se ha diseñado una pieza para sostener todo el cableado, la placa A
 ### Ventilador
 ![Ventilador huecos](img/VentiladorHuecos.jpg "Huecos del ventilador")  
 ![Ventilador pruebas](img/VentiladorPrueba.jpg "Pruebas de funcionamiento del ventilador")  
-![Ventilador](img/Ventilador.jpg "Ventilador instalado")  
+![Ventilador](img/VentiladorInstalado.jpg "Ventilador instalado")  
 
 
 
