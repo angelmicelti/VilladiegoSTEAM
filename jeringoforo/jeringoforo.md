@@ -34,6 +34,7 @@ Se utilizan funciones para el encendido de los respectivos ledes.
 
 
 ## Vídeo
+[![Haz clic para ver el vídeo](https://img.youtube.com/vi/9IBm53DWFEw/0.jpg)](https://www.youtube.com/watch?v=9IBm53DWFEw)
 
 
 [VOLVER](https://angelmicelti.github.io/VilladiegoSTEAM/)
