@@ -13,6 +13,16 @@ Hemos reciclado una vieja maqueta que teníamos por el laboratorio de Ciencias p
 
 ## Componentes del montaje  
 
+Se han utilizado los siguientes componentes electrónicos:
+- [Placa Keyestudio UNO](KS0001_KEYESTUDIO.pdf)
+- [Sensor de temperatura y humedad DHT11](DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf)
+- [Display LCD I2C](I2C_1602_LCD_datasheet.pdf)
+- [Sensor de humedad de la tierra KS0049](sensor-de-humedad-de-suelo-fc28.pdf)
+- [Sensor de CO2](mh-z19b-co2-ver1_0_datasheet.pdf)
+- Cables Dupont
+
+
+
 ## Modelos en 3D de las piezas  
 
 Ha habido que fabricar algunas piezas con la impresora 3D para conseguir ensamblar las dos partes de vidrio de las que se compone el invernadero, así como para sostener la placa Arduino y todo el cableado.  
