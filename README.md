@@ -16,4 +16,6 @@
 
 ## [Jeringóforo impreso en 3D](jeringoforo/jeringoforo.md)
 
----
+---  
+
+[Presentación sobre el desarrollo del proyecto]((https://view.genial.ly/6288971eb8b7d20011466fd9/presentation-villadiego-steam-21-22)
