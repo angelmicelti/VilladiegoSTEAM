@@ -19,9 +19,9 @@ Una vez que tenemos las piezas impresas, hay que realizar un pequeño ajuste, pa
 
 Repasamos los orificios de los ledes, y los insertamos en los mismos.
 
-A continuación, soldamos una resistencia a cada led y cableamos lo necesario.  
+A continuación, soldamos una resistencia a los cátodos de cada led (que están en común).  
 
-Por último, fijamos los cables en unas clemas y, ¡ya está listo! Nuestro semáforo está funcionando...  
+Por último, soldamos los cables a unos pines acodados y, ¡ya está listo! Nuestro semáforo está funcionando...  
 
 
 ## Un programita para controlar el semáforo
