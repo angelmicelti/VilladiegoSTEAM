@@ -29,9 +29,21 @@ A continuación, soldamos una resistencia a los cátodos de cada led (que están
 Por último, soldamos los cables a unos pines acodados y, ¡ya está listo! Nuestro semáforo está funcionando...  
 
 ## Imágenes
+### Piezas impresas en 3D
 
-### Jeringóforo primitivo  
-![Alzado anterior](AlzadoAnterior.jpg)
+![Impreso 3D anterior](img/Impreso3DAnterior.jpg)  
+
+![Impreso 3D posterior](img/Impreso3DPosterior.jpg)  
+
+
+### Montaje del dispositivo
+
+
+![Montaje final anterior](img/AlzadoAnteriorFinal.jpg)  
+
+![Montaje final posterior](img/AlzadoPosteriorFinal.jpg)  
+
+![Detalle de la soldadura](img/DetalleSoldadura.jpg)  
 
 
 
