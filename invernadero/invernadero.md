@@ -61,6 +61,12 @@ Así mismo, se ha diseñado una pieza para sostener todo el cableado, la placa A
 ![Presentación 2](img/PiezaInvernadero2.jpg "Unidad de presentación")  
 ![Presentación 3](img/PiezaInvernadero3.jpg "Unidad de presentación")  
 
+### Sensores de humedad del suelo  
+![Sensores de humedad del suelo](img/SensoresHumedadSuelo.jpg "Unidad de presentación")  
+
+
+### Ventilador
+
 
 
 
