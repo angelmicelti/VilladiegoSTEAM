@@ -52,7 +52,7 @@ Así mismo, se ha diseñado una pieza para sostener todo el cableado, la placa A
 
 ## Imágenes 
 ![Componentes varios](img/Componentes.jpg "Componentes del montaje")  
-![Impresión de pieza](img/ImpresionPieza.jpg "Unidad de presentación: pieza 1")  
+![Impresión de pieza](img/ImpresionPiezas.jpg "Unidad de presentación: pieza 1")  
 
 
 ### Unidad de presentación
@@ -66,6 +66,10 @@ Así mismo, se ha diseñado una pieza para sostener todo el cableado, la placa A
 
 
 ### Ventilador
+![Ventilador huecos](img/VentiladorHuecos.jpg "Huecos del ventilador")  
+![Ventilador pruebas](img/VentiladorPruebas.jpg "Pruebas de funcionamiento del ventilador")  
+![Ventilador](img/Ventilador.jpg "Ventilador instalado")  
+
 
 
 
