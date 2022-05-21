@@ -6,6 +6,10 @@ Con nuestro alumnado acostumbramos a trabajar la construcción de un semáforo e
 
 Llevar esto a la impresión 3D de un dispositivo similar puede ser un reto fácilmente alcanzable y, sobre todo, motivador para el alumnado.  
 
+![Jeringóforo anterior](JeringoforoAnterior.png)  
+
+![Jeringóforo posterior](JeringoforoPosterior.png)
+
 ## Modelo 3D
 
 El modelo 3D que fue, finalmente, desarrollado por nuestro alumnado fue el siguiente:
@@ -22,6 +26,12 @@ Repasamos los orificios de los ledes, y los insertamos en los mismos.
 A continuación, soldamos una resistencia a los cátodos de cada led (que están en común).  
 
 Por último, soldamos los cables a unos pines acodados y, ¡ya está listo! Nuestro semáforo está funcionando...  
+
+## Imágenes
+
+### Jeringóforo primitivo  
+![Alzado anterior](AlzadoAnterior.)
+
 
 
 ## Un programita para controlar el semáforo
