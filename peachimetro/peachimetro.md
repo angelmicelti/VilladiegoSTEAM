@@ -54,7 +54,8 @@ Se han utilizado los siguientes componentes electrónicos:
 ![Montaje 2](img/montaje2.jpg "Imprimiendo la tapadera")
 ![Montaje 3](img/montaje3.jpg "Instalando el sensor de pH")
 ![Montaje 4](img/montaje4.jpg "Vista interior con todo ya montado")
-
+![Montaje 5](img/LeyendaCarcasa.jpeg "Detalle con la leyenda de la carcasa")
+![Montaje 6](img/LeyendaCarcasa2.jpeg "Montaje final del peachímetro")
 
 ---
 
