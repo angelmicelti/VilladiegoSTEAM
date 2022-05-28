@@ -52,7 +52,7 @@ Así mismo, se ha diseñado una pieza para sostener todo el cableado, la placa A
 
 ## Imágenes 
 ![Componentes varios](img/Componentes.jpg "Componentes del montaje")  
-![Impresión de pieza](img/ImpresionPiezas.jpg "Unidad de presentación: pieza 1")  
+![Impresión de pieza](img/ImpresionPiezas1.jpg "Unidad de presentación: pieza 1")  
 
 
 ### Unidad de presentación
