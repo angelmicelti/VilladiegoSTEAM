@@ -8,7 +8,7 @@
 
 ---
 
-## [Pehachímetro digital con Arduino](pehachimetro/peachimetro.md)
+## [Pehachímetro digital con Arduino](pehachimetro/pehachimetro.md)
 
 
 ## [Invernadero controlado por Arduino](invernadero/invernadero.md)
