@@ -1,4 +1,4 @@
-# Peachímetro digital  
+# Pehachímetro digital  
 
 ## Motivación  
 
