@@ -25,12 +25,12 @@ Se han utilizado los siguientes componentes electrónicos:
 ## Modelos en 3D de las piezas
 
 ### Caja del peachímetro
-![Caja del peachímetro](img/phmetro_caja.png)
+![Caja del pehachímetro](img/phmetro_caja.png)
 
 #### [Modelo 3D (.stl)](CajaPhmetro.stl)
 
-### Tapadera del peachímetro
-![Tapadera del peachímetro](img/phmetro_tapa.png)
+### Tapadera del pehachímetro
+![Tapadera del pehachímetro](img/phmetro_tapa.png)
 
 #### [Modelo 3D (.stl)](TapaPhmetro.stl)
 
@@ -42,20 +42,20 @@ Se han utilizado los siguientes componentes electrónicos:
 ---
 
 ## Código  
-![Código Arduinoblocks para el peachímetro](img/programa_pHmetro.png)
+![Código Arduinoblocks para el pehachímetro](img/programa_pHmetro.png)
 
 
 ---
 
 ## Imágenes   
 
-### Montaje del peachímetro  
-![Montaje 1](img/montaje1.jpg "Peachímetro montado: aspecto exterior")
+### Montaje del pehachímetro  
+![Montaje 1](img/montaje1.jpg "Pehachímetro montado: aspecto exterior")
 ![Montaje 2](img/montaje2.jpg "Imprimiendo la tapadera")
 ![Montaje 3](img/montaje3.jpg "Instalando el sensor de pH")
 ![Montaje 4](img/montaje4.jpg "Vista interior con todo ya montado")
 ![Montaje 5](img/LeyendaCarcasa.jpeg "Detalle con la leyenda de la carcasa")
-![Montaje 6](img/LeyendaCarcasa2.jpeg "Montaje final del peachímetro")
+![Montaje 6](img/LeyendaCarcasa2.jpeg "Montaje final del pehachímetro")
 
 ---
 
