@@ -24,7 +24,7 @@ Se han utilizado los siguientes componentes electrónicos:
 ---
 ## Modelos en 3D de las piezas
 
-### Caja del peachímetro
+### Caja del pehachímetro
 ![Caja del pehachímetro](img/phmetro_caja.png)
 
 #### [Modelo 3D (.stl)](CajaPhmetro.stl)
